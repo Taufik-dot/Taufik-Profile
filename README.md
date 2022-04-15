@@ -10,7 +10,7 @@
 ### Connect with me:
 
 [<img align="left" alt="LinkedIn" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" style="padding-right:20px;" />][webdevplaylist]
-
+&nbsp;&nbsp;
 
 ### Languages and Tools:
 
