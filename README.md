@@ -9,7 +9,6 @@
 
 ### Connect with me:
 
-&nbsp;&nbsp;
 [<img align="left" alt="LinkedIn" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" style="padding-right:20px;" />][webdevplaylist]
 
 
@@ -67,7 +66,7 @@
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://instagram.com/n-taufik-kurrahman
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[linkedin]: https://linkedin.com/in/n-taufik-kurrahman
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
