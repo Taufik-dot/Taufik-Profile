@@ -15,8 +15,8 @@
 &nbsp;&nbsp;
 
 
-### Languages and Tools:
 
+### Languages and Tools:
 
 [<img align="left" alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" style="padding-right:10px;" />]
 [<img align="left" alt="Pandas" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" style="padding-right:10px;" />]
