@@ -1,4 +1,4 @@
-# Hi there, I'm Nurul Taufik Kurrahman - aka [Taufik] 👋 
+# Hi there, I'm Nurul Taufik Kurrahman - [Taufik] 👋 
 
 ## I'm a Undergraduate Student of Information Systems | Data Engineer Enthusiast | Learning Cloud Computing  !!
 
@@ -13,8 +13,6 @@
 &nbsp;&nbsp;
 [<img align="left" alt="Twitter" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" style="padding-right:10px;" />][twitter]
 &nbsp;&nbsp;
-&nbsp;&nbsp;
-
 
 
 ### Languages and Tools:
@@ -22,8 +20,7 @@
 
 [<img align="left" alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" style="padding-right:10px;" />]
 [<img align="left" alt="Pandas" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" style="padding-right:10px;" />]
-[<img align="left" alt="Numpy" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" style="padding-right:10px;" />]
-[<img align="left" alt="Anaconda" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original-wordmark.svg" style="padding-right:10px;" />]
+[<img align="left" alt="Numpy" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" style="padding-right:10px;" />]
 [<img align="left" alt="Jupyter" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" style="padding-right:10px;" />]
 [<img align="left" alt="MySQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" style="padding-right:10px;" />]
 [<img align="left" alt="MongoDB" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" style="padding-right:10px;" />]
