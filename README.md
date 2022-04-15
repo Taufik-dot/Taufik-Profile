@@ -9,22 +9,18 @@
 
 ### Connect with me:
 
-
+&nbsp;&nbsp;
+[<img align="left" alt="LinkedIn" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" style="padding-right:10px;" />][webdevplaylist]
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/taauufik1#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/taauufik1#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/n-taufik-kurrahman/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/n-taufik-kurrahman#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/taauufik1#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/taauufik1#gh-dark-mode-only)
+
 
 ### Languages and Tools:
 
-[<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" style="padding-right:10px;" />]
-[<img align="left" alt="Pandas" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" style="padding-right:10px;" />]
-[<img align="left" alt="Numpy" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" style="padding-right:10px;" />]
+[<img align="left" alt="Python" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" style="padding-right:10px;" />]
+[<img align="left" alt="Pandas" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" style="padding-right:10px;" />]
+[<img align="left" alt="Numpy" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" style="padding-right:10px;" />]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="Anaconda" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original-wordmark.svg.svg" style="padding-right:10px;" />]
 [<img align="left" alt="AWS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg.svg" style="padding-right:10px;" />]
@@ -46,31 +42,6 @@
 
 ---
 
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [Fastest Upgrade to React 18!! Only 1 Second! 🤯](https://www.youtube.com/watch?v=JLyVyURIWG0)
-- [5 Reasons You Should NOT Create an NFT Collection!!](https://www.youtube.com/watch?v=1ktrrwasouc)
-- [Do You Need To Know Web Dev To Become A Web3 Developer? With Hashlips](https://www.youtube.com/watch?v=oQBRZMo0e34)
-- [BEST Mint From Site &lpar;dapp&rpar; - Entire Process! Whitelist &amp; Launch an NFT Collection &lpar;10,000+&rpar;](https://www.youtube.com/watch?v=cLB7u0KQFIs)
-- [ULTIMATE Create An ENTIRE NFT Collection &lpar;10,000+&rpar; &amp; MINT With ZERO Coding Knowledge - PFP Generator](https://www.youtube.com/watch?v=quGdJweadFM)
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://youtube.com/codestackr)
-
----
-
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [How To Pass Application Tracking Systems &lpar;ATS&rpar; &amp; Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions &lpar;RegEx&rpar; Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://codestackr.com)
 
 ---
 
@@ -98,7 +69,7 @@
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
+[instagram]: https://instagram.com/n-taufik-kurrahman
 [linkedin]: https://linkedin.com/in/codeSTACKr
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
