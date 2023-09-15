@@ -3,8 +3,8 @@
 ## I'm a Undergraduate Student of Information Systems | Data Engineer Enthusiast | Learning Cloud Computing  !!
 
 - 🌱 I’m currently learning more Data Engineer & creating Data Engineer Project 
-- 🥅 2022 Goals: Become a Data Engineer
-- ⚡ Fun fact: I love to reading and listening to music
+- 🥅 Goals: Become a Data Engineer
+- ⚡ Fun fact: I love to watching movie and listening to music
 
 
 ### Connect with me:
