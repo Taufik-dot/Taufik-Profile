@@ -1,6 +1,6 @@
 # Hi there, I'm Nurul Taufik Kurrahman - [Taufik] 👋 
 
-## I'm a Undergraduate Student of Information Systems | Data Engineer Enthusiast | Learning Cloud Computing  !!
+## I'm a Bachelor of Information Systems | Data Engineer Enthusiast | Learning Cloud Computing  !!
 
 - 🌱 I’m currently learning more Data Engineer & creating Data Engineer Project 
 - 🥅 Goals: Become a Data Engineer
